@@ -16,7 +16,7 @@
 ## **Installation**  
 ### **1️⃣ Clone the Repository**  
 ```bash
-git clone [https://github.com/YajurKumar/GNCsim.git](https://github.com/YajurKumar/GNCSim/)
+git clone https://github.com/YajurKumar/GNCsim.git
 cd GNCsim
 ```
 
