@@ -15,14 +15,15 @@
 
 ## **Installation**  
 ### **1️⃣ Clone the Repository**  
+```bash
 git clone https://github.com/YOUR_USERNAME/GNCsim.git
 cd GNCsim
-
+```
 
 ### **2️⃣ Install Dependencies**  
-
+```bash
 pip install numpy matplotlib vpython scipy
-
+```
 
 ---
 
@@ -76,7 +77,7 @@ This project is licensed under the **MIT License** – see the `LICENSE` file fo
 ---
 
 ## **Author**  
-Developed by **Yajur** – GNC Engineer specializing in satellite and rocket control.  
+Developed by **Yajur Kumar** – GNC Engineer specializing in satellite and rocket control.  
 ```
 
 ### **How to Save It**  
