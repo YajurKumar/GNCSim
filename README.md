@@ -15,15 +15,14 @@
 
 ## **Installation**  
 ### **1️⃣ Clone the Repository**  
-```bash
 git clone https://github.com/YOUR_USERNAME/GNCsim.git
 cd GNCsim
-```
+
 
 ### **2️⃣ Install Dependencies**  
-```bash
+
 pip install numpy matplotlib vpython scipy
-```
+
 
 ---
 
